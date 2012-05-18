@@ -42,6 +42,9 @@ Plugin.prototype.mom = function(msg) {
 		"Yo momma so ugly just after she was born, her mother said, \"What a treasure!\" and her father said, \"Yea, let's go bury it!\"",
 		"Yo momma so ugly she gets 364 extra days to dress up for Halloween.",
 		"Yo momma is like a vacuum cleaner.  She sucks, blows, and gets laid in the closet.",
+		"Yo momma is so fat she sat on walmart and lowered the prices.",
+		"Yo mama is so fat when she turns around its her birthday again",
+		
 	];
 	
 	if(jokes.length > 0){
